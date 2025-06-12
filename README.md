@@ -1,1 +1,1 @@
-# GENAI_Dev
+# GENAI_Developer Training Content
