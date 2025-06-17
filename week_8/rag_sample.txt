@@ -1,0 +1,5 @@
+LangChain is a powerful framework for building applications with LLMs. It allows integration of language models with tools, APIs, and external data. 
+
+Agentic RAG systems combine retrieval-based context fetching with agent-based reasoning. These systems can access knowledge sources and decide what to do based on the user's query.
+
+Google's Gemini model provides strong reasoning capabilities and can be used as the LLM in LangChain pipelines.
