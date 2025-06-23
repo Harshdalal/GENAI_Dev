@@ -1,0 +1,34 @@
+IMAGES:
+
+List all Local images: docker images
+Delete an image: docker rmi <image_name>
+Remove unused images: docker image prune
+Build an image from a Dockerfile:
+docker build -t <image_name>:<version> . (version is optional)
+docker build -t <image_name>:<version> --no-cache (build without cache)
+
+CONTAINER:
+
+List all Local containers (running & stopped): docker ps -a
+List all running containers: docker ps
+Create & run a new container: docker run <image_name> (if image not available locally, it'll be downloaded from DockerHub)
+Run container in background: docker run -d <image_name>
+Run container with custom name: docker run --name <container_name> <image_name>
+
+Container Management:
+
+Port Binding: docker run -p <host_port>:<container_port> <image_name>
+Set Environment Variables: docker run -e <var_name>=<var_value> <container_name> (or <container_id>)
+Start or Stop an Existing Container: docker start/stop <container_name> (or <container_id>)
+Inspect a Running Container: docker inspect <container_name> (or <container_id>)
+Delete a Container: docker rm <container_name> (or <container_id>)
+Troubleshoot:
+
+Fetch Logs of a Container: docker logs <container_name> (or <container_id>)
+Open Shell inside Running Container:
+docker exec -it <container_name> /bin/bash
+docker exec -it <container_name> sh
+Docker Hub:
+
+Pull an Image from DockerHub: docker pull <image_name>
+Publish an Image to DockerHub: docker push <username>/<image_name>
