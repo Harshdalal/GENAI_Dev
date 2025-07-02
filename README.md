@@ -19,3 +19,5 @@ Week_8 > RAG fundamentals and advanced concepts of RAG
 Week_9 > FIne tuning LLMs and LLMops
 
 week_10 > Capstone Project with Advanced Agentic_AI concepts
+
+for more GCP support > https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini
