@@ -10,6 +10,14 @@ Week_4 > Natural Langauge processing and transformers
 
 Week_5 > Genertaive AI & Prompt engineering
 
+Extra activity :
+
+  1.https://www.cloudskillsboost.google/course_templates/976
+
+  2.https://www.cloudskillsboost.google/course_templates/959
+  
+  3.https://notebooklm.google.com/
+
 Week_6 > Langchain , langGraph & Agentic AI Fundamentals
 
 Week_7 > Agentic AI Frameworks
