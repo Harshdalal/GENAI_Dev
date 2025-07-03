@@ -4,7 +4,7 @@ Week_1 >  Python fundamentals
 
 Extra activity :
 
-   1.https://www.cloudskillsboost.google/paths/17/course_templates/1171 (create VM on GCP - cloud fundamentals)
+   1.https://www.cloudskillsboost.google/focuses/2794?parent=catalog&path=17 (create VM on GCP - cloud fundamentals)
 
 Week_2 > Machine Learning Fundamentals
 
