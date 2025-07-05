@@ -22,13 +22,9 @@ Then open in browser:
 ✅ Summary Table
 
 | Step                      | Command                    |
-
 | ------------------------- | -------------------------- |
-
 | Train and log model       | `python train_mlflow.py`   |
-
 | Start MLflow UI           | `mlflow ui`                |
-
 | Open MLflow UI            | `http://127.0.0.1:5000`    |
-
+| Predict from logged model | `python predict_mlflow.py` |
 | Predict from logged model | `python predict_mlflow.py` |
