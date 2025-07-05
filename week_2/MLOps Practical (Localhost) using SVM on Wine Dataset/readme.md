@@ -1,9 +1,16 @@
 mlops_svm_wine/
+
 │
+
 ├── train_model.py        # Train SVM and save model
+
 ├── app.py                # Flask API
+
 ├── test_api.py           # Test the API
+
 ├── model/
+
 │   └── wine_svm_model.pkl
+
 └── requirements.txt
 
